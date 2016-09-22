@@ -89,7 +89,7 @@ android-ndk-r8b
 			
 5-编译与运行结果：
 ==============
-CMD窗口：
+	CMD窗口：
 			C:\Users\tom\Desktop\JniTest>ndk-build
 			"Compile thumb : my_jni <= lapi.c
 			"Compile thumb : my_jni <= lauxlib.c
